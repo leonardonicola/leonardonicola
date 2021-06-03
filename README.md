@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @schmittz from Brasil. I'm a web development student.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
