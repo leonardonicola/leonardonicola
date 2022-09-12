@@ -2,7 +2,12 @@
 <h3>A passionate frontend developer from Brazil</h3>
 <br/>
 
-### Hello! Welcome to my profile
+## Stats
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=onedark)
+  
+  ### Hello! Welcome to my profile
 
 - 🌱 I’m currently learning **React, Vue and Javascript ESNext**
 
@@ -11,11 +16,6 @@
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
 <br/>
-
-## About
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=onedark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=onedark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
