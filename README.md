@@ -9,7 +9,7 @@
   
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **React, Vue and Javascript ESNext**
+- 🌱 I’m currently learning **React, Next.js, Vue and Jest**
 
 - 💬 Ask me about **React, Vue and Javascript**
 
