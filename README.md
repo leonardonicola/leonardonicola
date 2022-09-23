@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Leonardo Nicola</h1>
-<h3>A passionate frontend developer from Brazil</h3>
-<br/>
+<h4>A passionate frontend developer from Brazil</h4>
 
-## Stats
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=onedark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=onedark)
-  
   ### Hello! Welcome to my profile
 
 - 🌱 I’m currently learning **React, Next.js, Vue and Jest**
@@ -14,6 +8,13 @@
 - 💬 Ask me about **React, Vue and Javascript**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
+
+## Stats
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=onedark)
+  
+
 
 <br/>
 
