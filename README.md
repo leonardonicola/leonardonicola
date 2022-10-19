@@ -3,7 +3,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **React, Next.js, Vue and Styled-Components**
+- 🌱 I’m currently learning **Vue, Quasar and Vue libs**
 
 - 💬 Ask me about **React, Vue and Javascript**
 
@@ -11,8 +11,8 @@
 
 ## Stats
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=onedark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=onedark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=radical&custom_title=My%20stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=radical&custom_title=Most%20used%20techs)
   
 
 
@@ -22,7 +22,6 @@
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 </div>
 
 <br>
