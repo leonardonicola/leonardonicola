@@ -3,9 +3,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Vue, Quasar and Vue libs**
-
-- 💬 Ask me about **React, Vue and Javascript**
+- 🌱 I’m currently learning **Tailwind and Typescript**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
@@ -19,9 +17,12 @@
 <br/>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Quasar" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_quasar_icon_130213.png" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
 <br>
