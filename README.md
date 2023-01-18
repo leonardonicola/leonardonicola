@@ -3,7 +3,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Tailwind and Typescript**
+- 🌱 I’m currently learning **Tailwind, Typescript and Nuxt**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
