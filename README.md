@@ -10,7 +10,7 @@
 ## Stats
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=radical&custom_title=My%20stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=4&theme=radical&custom_title=Most%20used%20techs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=3&theme=radical&custom_title=Most%20used%20techs)
   
 
 
