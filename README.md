@@ -10,7 +10,7 @@
 ## Stats
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=radical&custom_title=My%20stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=7&theme=radical&custom_title=Most%20used%20techs)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardonicola&layout=compact&langs_count=3&theme=radical&custom_title=Most%20used%20techs)
   
 
 
@@ -19,10 +19,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Vue.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Nuxt.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
-  <img align="center" alt="TS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
 <br>
