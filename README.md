@@ -3,7 +3,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Express.js, Nuxt and PostgreSQL**
+- 🌱 I’m currently learning **Design Patterns, Data Structures and SOLID**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
