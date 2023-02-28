@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
+- 👨‍💻 Click to see my [portfolio](https://leodev.vercel.app/)
+
 ## Stats
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonicola&count_private=true&show_icons=true&theme=radical&custom_title=My%20stats)
