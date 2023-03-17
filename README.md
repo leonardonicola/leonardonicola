@@ -30,13 +30,20 @@
   <img src="https://img.shields.io/badge/Javascript-5658dd?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-5658dd?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-5658dd?style=flat-square&logo=Nuxt.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-5658dd?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled%20Components-5658dd?style=flat-square&logo=StyledComponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-5658dd?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-5658dd?style=flat-square&logo=Vitest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-5658dd?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue%20Test%20Utils-5658dd?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Testing%20Library-5658dd?style=flat-square&logo=TestingLibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-5658dd?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Quasar-5658dd?style=flat-square&logo=Quasar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-5658dd?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typeorm-5658dd?style=flat-square&logo=Typeorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-5658dd?style=flat-square&logo=Socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Strapi-5658dd?style=flat-square&logo=Strapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-5658dd?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-5658dd?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-5658dd?style=flat-square&logo=Git&logoColor=white"/>
