@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
-- 👨‍💻 Click to see my [portfolio](https://leodev.vercel.app/)
+- 👨‍💻 Click to see my <a href="https://leodev.vercel.app/" target="_blank">portfolio</a>
 
 ## Stats
 <div>
