@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typeorm-5658dd?style=flat-square&logo=Typeorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-5658dd?style=flat-square&logo=Socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Strapi-5658dd?style=flat-square&logo=Strapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-5658dd?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-5658dd?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-5658dd?style=flat-square&logo=Git&logoColor=white"/>
