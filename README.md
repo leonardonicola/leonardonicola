@@ -6,7 +6,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Design Patterns, Data Structures and SOLID**
+- 🌱 I’m currently learning **Rust, Data Structures, Cloud and Back-end**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
