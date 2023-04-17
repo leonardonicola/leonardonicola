@@ -6,7 +6,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Rust, Data Structures, Cloud and Back-end**
+- 🌱 I’m currently learning **Rust, Data Structures and Back-end**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
@@ -43,8 +43,5 @@
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Typeorm-5658dd?style=flat-square&logo=Typeorm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-5658dd?style=flat-square&logo=Socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-5658dd?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-5658dd?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-5658dd?style=flat-square&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-5658dd?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-5658dd?style=flat-square&logo=Rust&logoColor=white"
 </div>
