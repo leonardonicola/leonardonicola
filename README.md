@@ -6,7 +6,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **Rust, Data Structures and Back-end**
+- 🌱 I’m currently learning **design patterns, architectures, back-end**
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
@@ -30,18 +30,19 @@
   <img src="https://img.shields.io/badge/Javascript-5658dd?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-5658dd?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-5658dd?style=flat-square&logo=Nuxt.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-5658dd?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled%20Components-5658dd?style=flat-square&logo=StyledComponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-5658dd?style=flat-square&logo=TailwindCSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quasar-5658dd?style=flat-square&logo=Quasar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-5658dd?style=flat-square&logo=Cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-5658dd?style=flat-square&logo=Vitest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-5658dd?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue%20Test%20Utils-5658dd?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Testing%20Library-5658dd?style=flat-square&logo=TestingLibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-5658dd?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quasar-5658dd?style=flat-square&logo=Quasar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-5658dd?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typeorm-5658dd?style=flat-square&logo=Typeorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-5658dd?style=flat-square&logo=Socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-5658dd?style=flat-square&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nestjs-5658dd?style=flat-square&logo=Nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-5658dd?style=flat-square&logo=Nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-5658dd?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-5658dd?style=flat-square&logo=Rust&logoColor=white"
 </div>
