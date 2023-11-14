@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Leonardo Nicola</h1>
-<h4>A passionate frontend developer from Brazil</h4>
+<h4>A fullstack developer from Brazil</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardonicola/)](https://www.linkedin.com/in/leonardonicola/) 
 ![CodeWars](https://www.codewars.com/users/leonardonicola/badges/micro)
