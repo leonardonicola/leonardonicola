@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Vue.js-5658dd?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-5658dd?style=flat-square&logo=Nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-5658dd?style=flat-square&logo=TailwindCSS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quasar-5658dd?style=flat-square&logo=Quasar&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-5658dd?style=flat-square&logo=Cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitest-5658dd?style=flat-square&logo=Vitest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-5658dd?style=flat-square&logo=Jest&logoColor=white"/>
@@ -40,9 +39,16 @@
   <img src="https://img.shields.io/badge/Docker-5658dd?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-5658dd?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-5658dd?style=flat-square&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-5658dd?style=flat-square&logo=RabbitMQ&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-5658dd?style=flat-square&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-5658dd?style=flat-square&logo=Fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nestjs-5658dd?style=flat-square&logo=Nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-5658dd?style=flat-square&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-5658dd?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-5658dd?style=flat-square&logo=Rust&logoColor=white"
+  <img src="https://img.shields.io/badge/Java-5658dd?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-5658dd?style=flat-square&logo=Spring%20Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graphql-5658dd?style=flat-square&logo=Graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-5658dd?style=flat-square&logo=Spring%20Security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-5658dd?style=flat-square&logo=Rust&logoColor=white" />
 </div>
