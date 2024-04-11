@@ -6,7 +6,7 @@
 
   ### Hello! Welcome to my profile
 
-- 🌱 I’m currently learning **architectures, cloud and backend**
+- 🌱 I’m currently studying about **architecures, Golang and backend** overall
 
 - 📫 How to reach me **leonardonicolares@gmail.com**
 
