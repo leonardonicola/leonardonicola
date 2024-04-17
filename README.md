@@ -33,14 +33,17 @@
   <img src="https://img.shields.io/badge/Testing%20Library-5658dd?style=flat-square&logo=TestingLibrary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-5658dd?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-5658dd?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-5658dd?style=flat-square&logo=Gin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fastify-5658dd?style=flat-square&logo=Fastify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nestjs-5658dd?style=flat-square&logo=Nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-5658dd?style=flat-square&logo=SQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-5658dd?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-5658dd?style=flat-square&logo=Redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-5658dd?style=flat-square&logo=Supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-5658dd?style=flat-square&logo=RabbitMQ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-5658dd?style=flat-square&logo=ApacheKafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-5658dd?style=flat-square&logo=Prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastify-5658dd?style=flat-square&logo=Fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nestjs-5658dd?style=flat-square&logo=Nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle-5658dd?style=flat-square&logo=Drizzle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-5658dd?style=flat-square&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-5658dd?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Graphql-5658dd?style=flat-square&logo=Graphql&logoColor=white" />
 </div>
